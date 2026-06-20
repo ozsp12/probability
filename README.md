@@ -7,6 +7,7 @@ Este repositório é dedicado a um curso de probabilidade completo, contendo os 
 * Testes paramétricos e não-paramétricos.
 * Modelos e distribuições, testes específicos, teorema do limite central e redução à média.
 * Dados sintéticos e metodologia de sintetização de dados.
+* Tratamento de dados de baixa qualidade e dados faltantes usando técnicas de inferência e interpolação de dados.
 * Inferência Bayesiana
 * Regressão logística e aplicações
 * Introdução ao aprendizado de máquina do ponto de vista estatístico
