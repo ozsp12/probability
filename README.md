@@ -33,8 +33,7 @@ Bibliografia
 * Casella, G.; Berger, R. L. Statistical Inference. 2nd ed. Pacific Grove, CA: Duxbury, 2002.
 * Chung, K. L. (1974); "Elementary Probability Theory with Stochastic Processes", Springer-Verlag.
 * Box, G.E., TIAO, G.C. Bayesian Inference in Statistical Analysis, Addison-Wesley, 1973.
-* Zellner, A. An Introduction to Bayesian Inference in Econometrics, Wiley, 1971.
-*  
+* Zellner, A. An Introduction to Bayesian Inference in Econometrics, Wiley, 1971.  
 
 # Social Media
 Currículo Lattes: http://lattes.cnpq.br/6730251976463283  
