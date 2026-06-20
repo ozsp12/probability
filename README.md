@@ -23,7 +23,7 @@ O material contido aqui tem como influência os seguintes cursos universitários
 * [Programa de Mestrado em Engenharia Elétrica (Unicamp)](https://www.dac.unicamp.br/portal/caderno-de-horarios/2022/2/S/P/FEEC/52/-/11/M)
 
 Bibliografia
-* ROSS, S. (1994); "A First Course in Probability". 4th edition, Prentice Hall.
+* Ross, S. (1994); "A First Course in Probability". 4th edition, Prentice Hall.
 * Feller, W. (1968); "An Introduction to Probability Theory and its Applications". 3th edition, Vol. 1, Wiley.
 * Hoel, P. G.; PORT, S. C. & STONE, C. J. (1971); "Introduction to Probability Theory", Houghton-Mifflin.
 * Fisz, M. (1963); "Probability Theory and Mathematical Statistics", Wiley.
