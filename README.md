@@ -7,6 +7,8 @@ Este repositório é dedicado a um curso de probabilidade completo, contendo os 
 * Testes paramétricos e não-paramétricos.
 * Modelos e distribuições, testes específicos, teorema do limite central e redução à média.
 * Dados sintéticos e metodologia de sintetização de dados.
+* Regressão logística e aplicações
+* Introdução ao aprendizado de máquina do ponto de vista estatístico
 
 O material contido aqui tem como influência os seguintes cursos universitários.
 * [CS109: Probability for Computer Scientists (Stanford)](https://web.stanford.edu/class/cs109/)
